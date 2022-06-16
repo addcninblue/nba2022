@@ -1,6 +1,7 @@
 # NBA 2022 Analysis
 
-Credits to `https://www.basketball-reference.com/` for all of their data.
+* Credits to `https://www.basketball-reference.com/` for all of their data.
+* Credits to `https://datasciencejuliahackers.com/football-simulation.html` for model tutorial.
 
 * `data_collection`: Scripts + lots of elbow grease to produce decent-quality datasets.
 * `simple_charts`: EDA to visualize difference in shooting ability per player
