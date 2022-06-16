@@ -1,0 +1,447 @@
+QUARTER,TIME_REMAINING,BOSTON_ACTION,GOLDEN STATE_ACTION,BOSTON_SCORE,GOLDEN STATE_SCORE
+1,11:36.0,Turnover by M. Smart (bad pass),,0,0
+1,11:25.0,,A. Wiggins makes 3-pt jump shot from 25 ft (assist by K. Looney),0,3
+1,11:16.0,J. Brown makes 3-pt jump shot from 27 ft,,3,3
+1,11:11.0,,Turnover by S. Curry (bad pass; steal by J. Tatum),3,3
+1,11:10.0,Personal take foul by K. Looney (drawn by J. Tatum),,3,3
+1,10:57.0,M. Smart makes 2-pt layup from 10 ft (assist by J. Tatum),,5,3
+1,10:46.0,,K. Thompson misses 3-pt jump shot from 26 ft,5,3
+1,10:44.0,Defensive rebound by R. Williams,,5,3
+1,10:39.0,J. Brown makes 3-pt jump shot from 26 ft (assist by J. Tatum),,8,3
+1,10:25.0,,K. Looney makes 2-pt dunk from 3 ft (assist by A. Wiggins),8,5
+1,10:09.0,J. Tatum makes 2-pt layup from 3 ft,,10,5
+1,9:51.0,,Turnover by K. Thompson (bad pass),10,5
+1,9:36.0,J. Brown makes 2-pt layup from 7 ft (assist by M. Smart),,12,5
+1,9:36.0,Shooting foul by A. Wiggins (drawn by J. Brown),,12,5
+1,9:36.0,J. Brown makes free throw 1 of 1,,13,5
+1,9:23.0,,S. Curry misses 2-pt layup from 8 ft (block by R. Williams),13,5
+1,9:20.0,Defensive rebound by R. Williams,,13,5
+1,9:18.0,J. Tatum misses 3-pt jump shot from 25 ft,,13,5
+1,9:17.0,,Defensive rebound by Team,13,5
+1,9:05.0,,A. Wiggins misses 2-pt layup from 3 ft (block by A. Horford),13,5
+1,9:02.0,Defensive rebound by J. Brown,,13,5
+1,8:59.0,M. Smart misses 3-pt jump shot from 26 ft,,13,5
+1,8:57.0,,Defensive rebound by K. Looney,13,5
+1,8:43.0,,K. Looney makes 2-pt layup from 4 ft (assist by D. Green),13,7
+1,8:27.0,J. Tatum misses 2-pt jump shot from 13 ft (block by D. Green),,13,7
+1,8:24.0,,Defensive rebound by S. Curry,13,7
+1,8:23.0,,K. Thompson misses 3-pt jump shot from 23 ft,13,7
+1,8:21.0,Defensive rebound by J. Tatum,,13,7
+1,8:06.0,J. Brown misses 2-pt layup from 7 ft,,13,7
+1,8:03.0,,Defensive rebound by S. Curry,13,7
+1,7:44.0,,S. Curry makes 2-pt jump shot from 12 ft,13,9
+1,7:20.0,J. Tatum misses 2-pt jump shot from 10 ft,,13,9
+1,7:18.0,Offensive rebound by J. Tatum,,13,9
+1,7:18.0,J. Tatum misses 2-pt layup at rim,,13,9
+1,7:18.0,Offensive rebound by Team,,13,9
+1,7:13.0,J. Tatum makes 3-pt jump shot from 25 ft (assist by R. Williams),,16,9
+1,7:02.0,,D. Green makes 2-pt layup from 5 ft (assist by S. Curry),16,11
+1,7:02.0,,Shooting foul by A. Horford (drawn by D. Green),16,11
+1,7:02.0,,D. Green misses free throw 1 of 1,16,11
+1,7:01.0,,Offensive rebound by Team,16,11
+1,7:01.0,,Personal foul by J. Tatum (drawn by D. Green),16,11
+1,6:47.0,,S. Curry misses 2-pt layup from 4 ft,16,11
+1,6:47.0,,Offensive rebound by Team,16,11
+1,6:47.0,Loose ball foul by J. Brown (drawn by K. Looney),,16,11
+1,6:47.0,,Golden State full timeout,16,11
+1,6:44.0,,K. Thompson misses 3-pt jump shot from 27 ft,16,11
+1,6:42.0,Defensive rebound by Team,,16,11
+1,6:25.0,J. Brown misses 3-pt jump shot from 22 ft,,16,11
+1,6:22.0,,Defensive rebound by K. Looney,16,11
+1,6:12.0,,A. Wiggins misses 2-pt layup from 6 ft,16,11
+1,6:09.0,Defensive rebound by J. Brown,,16,11
+1,6:07.0,Turnover by M. Smart (bad pass),,16,11
+1,6:07.0,D. White enters the game for J. Tatum,,16,11
+1,6:07.0,G. Williams enters the game for R. Williams,,16,11
+1,5:49.0,,K. Thompson makes 2-pt jump shot from 8 ft (assist by D. Green),16,13
+1,5:49.0,,G. Payton enters the game for K. Looney,16,13
+1,5:49.0,,J. Poole enters the game for A. Wiggins,16,13
+1,5:22.0,M. Smart misses 3-pt jump shot from 27 ft,,16,13
+1,5:19.0,,Defensive rebound by D. Green,16,13
+1,5:13.0,,K. Thompson misses 2-pt layup from 3 ft,16,13
+1,5:11.0,Defensive rebound by A. Horford,,16,13
+1,4:59.0,G. Williams makes 2-pt layup from 5 ft (assist by M. Smart),,18,13
+1,4:47.0,,Personal foul by G. Williams (drawn by D. Green),18,13
+1,4:47.0,,Technical foul by D. Green,18,13
+1,4:47.0,J. Brown makes technical free throw,,19,13
+1,4:39.0,,S. Curry misses 3-pt jump shot from 27 ft,19,13
+1,4:37.0,Defensive rebound by J. Brown,,19,13
+1,4:27.0,J. Brown makes 3-pt jump shot from 26 ft (assist by D. White),,22,13
+1,4:13.0,,Shooting foul by D. White (drawn by D. Green),22,13
+1,4:13.0,,D. Green makes free throw 1 of 2,22,14
+1,4:13.0,,D. Green makes free throw 2 of 2,22,15
+1,3:58.0,D. White misses 2-pt jump shot from 9 ft,,22,15
+1,3:56.0,,Defensive rebound by D. Green,22,15
+1,3:52.0,,Shooting foul by J. Brown (drawn by G. Payton),22,15
+1,3:52.0,,Violation by Team (delay of game),22,15
+1,3:52.0,,G. Payton misses free throw 1 of 2,22,15
+1,3:52.0,,Offensive rebound by Team,22,15
+1,3:52.0,J. Tatum enters the game for J. Brown,,22,15
+1,3:52.0,,K. Looney enters the game for D. Green,22,15
+1,3:52.0,,O. Porter enters the game for K. Thompson,22,15
+1,3:52.0,,G. Payton misses free throw 2 of 2,22,15
+1,3:50.0,Defensive rebound by M. Smart,,22,15
+1,3:37.0,Turnover by M. Smart (bad pass; steal by K. Looney),,22,15
+1,3:37.0,,Personal take foul by G. Williams (drawn by S. Curry),22,15
+1,3:37.0,,Instant Replay (Request: Ruling Stands),22,15
+1,3:37.0,,S. Curry makes free throw 1 of 2,22,16
+1,3:37.0,,S. Curry makes free throw 2 of 2,22,17
+1,3:20.0,J. Tatum misses 2-pt jump shot from 18 ft,,22,17
+1,3:18.0,,Defensive rebound by O. Porter,22,17
+1,3:02.0,,K. Looney makes 2-pt dunk from 4 ft (assist by S. Curry),22,19
+1,2:47.0,Shooting foul by G. Payton (drawn by J. Tatum),,22,19
+1,2:47.0,Boston full timeout,,22,19
+1,2:47.0,P. Pritchard enters the game for A. Horford,,22,19
+1,2:47.0,D. Theis enters the game for M. Smart,,22,19
+1,2:47.0,J. Tatum makes free throw 1 of 2,,23,19
+1,2:47.0,J. Tatum makes free throw 2 of 2,,24,19
+1,2:34.0,,J. Poole misses 2-pt jump shot from 6 ft,24,19
+1,2:31.0,Defensive rebound by D. Theis,,24,19
+1,2:24.0,Turnover by D. Theis (bad pass; steal by K. Looney),,24,19
+1,2:22.0,,Personal take foul by J. Tatum (drawn by S. Curry),24,19
+1,2:22.0,,S. Curry misses free throw 1 of 2,24,19
+1,2:22.0,,Offensive rebound by Team,24,19
+1,2:22.0,,S. Curry makes free throw 2 of 2,24,20
+1,2:11.0,Turnover by J. Tatum (lost ball; steal by S. Curry),,24,20
+1,2:05.0,,S. Curry makes 3-pt jump shot from 28 ft (assist by J. Poole),24,23
+1,1:33.0,J. Tatum makes 3-pt jump shot from 26 ft (assist by D. Theis),,27,23
+1,1:20.0,,G. Payton makes 3-pt jump shot from 23 ft (assist by S. Curry),27,26
+1,0:58.0,J. Tatum makes 3-pt jump shot from 29 ft,,30,26
+1,0:45.0,,J. Poole makes 3-pt jump shot from 26 ft (assist by G. Payton),30,29
+1,0:40.0,Turnover by J. Tatum (lost ball; steal by K. Looney),,30,29
+1,0:35.0,,S. Curry misses 3-pt jump shot from 26 ft,30,29
+1,0:32.0,Defensive rebound by D. White,,30,29
+1,0:12.0,Turnover by D. White (bad pass; steal by O. Porter),,30,29
+1,0:01.0,,S. Curry makes 2-pt jump shot from 13 ft,30,31
+2,12:00.0,J. Brown enters the game for G. Williams,,30,31
+2,12:00.0,,K. Thompson enters the game for S. Curry,30,31
+2,12:00.0,,A. Wiggins enters the game for K. Looney,30,31
+2,12:00.0,,N. Bjelica enters the game for G. Payton,30,31
+2,11:50.0,,J. Poole misses 3-pt jump shot from 26 ft,30,31
+2,11:47.0,Defensive rebound by D. Theis,,30,31
+2,11:36.0,Turnover by J. Tatum (lost ball; steal by J. Poole),,30,31
+2,11:29.0,,J. Poole misses 2-pt layup from 5 ft (block by D. White),30,31
+2,11:28.0,Defensive rebound by J. Tatum,,30,31
+2,11:28.0,Instant Replay,,30,31
+2,11:19.0,J. Brown misses 2-pt jump shot from 16 ft,,30,31
+2,11:17.0,,Defensive rebound by N. Bjelica,30,31
+2,11:07.0,,A. Wiggins misses 2-pt layup from 3 ft,30,31
+2,11:06.0,Defensive rebound by D. Theis,,30,31
+2,11:06.0,,D. Green enters the game for O. Porter,30,31
+2,10:48.0,D. White misses 2-pt jump shot from 9 ft,,30,31
+2,10:46.0,,Defensive rebound by J. Poole,30,31
+2,10:38.0,,K. Thompson misses 2-pt jump shot from 18 ft,30,31
+2,10:34.0,Defensive rebound by J. Tatum,,30,31
+2,10:31.0,J. Tatum makes 3-pt jump shot from 27 ft,,33,31
+2,10:07.0,,J. Poole misses 2-pt layup from 5 ft (block by D. Theis),33,31
+2,10:05.0,Defensive rebound by P. Pritchard,,33,31
+2,10:02.0,D. White misses 2-pt layup from 5 ft,,33,31
+2,10:01.0,Offensive rebound by Team,,33,31
+2,10:01.0,,Loose ball foul by A. Wiggins (drawn by J. Tatum),33,31
+2,10:01.0,R. Williams enters the game for D. Theis,,33,31
+2,9:54.0,J. Tatum misses 2-pt jump shot from 19 ft,,33,31
+2,9:52.0,,Defensive rebound by N. Bjelica,33,31
+2,9:38.0,,N. Bjelica makes 2-pt layup from 5 ft (assist by D. Green),33,33
+2,9:21.0,P. Pritchard misses 2-pt layup from 4 ft,,33,33
+2,9:18.0,,Defensive rebound by N. Bjelica,33,33
+2,9:17.0,,Turnover by N. Bjelica (bad pass; steal by D. White),33,33
+2,9:09.0,R. Williams makes 2-pt layup from 5 ft (assist by D. White),,35,33
+2,8:49.0,,N. Bjelica makes 2-pt layup from 4 ft (assist by J. Poole),35,35
+2,8:20.0,J. Brown misses 2-pt jump shot from 18 ft,,35,35
+2,8:17.0,,Defensive rebound by J. Poole,35,35
+2,8:12.0,,Offensive foul by J. Poole (drawn by R. Williams),35,35
+2,8:12.0,,Turnover by J. Poole (offensive foul),35,35
+2,8:12.0,,S. Curry enters the game for J. Poole,35,35
+2,7:57.0,J. Brown misses 3-pt jump shot from 23 ft,,35,35
+2,7:55.0,,Defensive rebound by A. Wiggins,35,35
+2,7:45.0,,A. Wiggins misses 2-pt layup from 6 ft,35,35
+2,7:42.0,Defensive rebound by J. Tatum,,35,35
+2,7:39.0,Personal foul by N. Bjelica (drawn by J. Brown),,35,35
+2,7:39.0,A. Horford enters the game for J. Tatum,,35,35
+2,7:33.0,D. White makes 2-pt jump shot from 15 ft,,37,35
+2,7:14.0,,K. Thompson misses 2-pt jump shot from 4 ft,37,35
+2,7:12.0,Defensive rebound by J. Brown,,37,35
+2,7:06.0,D. White makes 3-pt jump shot from 23 ft (assist by J. Brown),,40,35
+2,6:57.0,,Golden State full timeout,40,35
+2,6:57.0,J. Tatum enters the game for P. Pritchard,,40,35
+2,6:57.0,,G. Payton enters the game for N. Bjelica,40,35
+2,6:57.0,,O. Porter enters the game for K. Thompson,40,35
+2,6:53.0,,S. Curry makes 2-pt jump shot from 19 ft (assist by O. Porter),40,37
+2,6:35.0,Turnover by J. Tatum (bad pass; steal by S. Curry),,40,37
+2,6:30.0,,S. Curry makes 3-pt jump shot from 27 ft,40,40
+2,6:30.0,M. Smart enters the game for R. Williams,,40,40
+2,6:04.0,J. Brown misses 3-pt jump shot from 26 ft,,40,40
+2,6:02.0,,Defensive rebound by O. Porter,40,40
+2,5:52.0,,S. Curry misses 2-pt layup from 7 ft (block by D. White),40,40
+2,5:50.0,Defensive rebound by D. White,,40,40
+2,5:43.0,Personal foul by O. Porter (drawn by A. Horford),,40,40
+2,5:36.0,M. Smart misses 2-pt jump shot from 12 ft,,40,40
+2,5:33.0,,Defensive rebound by S. Curry,40,40
+2,5:27.0,,G. Payton makes 2-pt layup from 6 ft (assist by D. Green),40,42
+2,5:12.0,J. Brown misses 3-pt jump shot from 25 ft,,40,42
+2,5:10.0,,Defensive rebound by A. Wiggins,40,42
+2,4:53.0,,A. Wiggins makes 3-pt jump shot from 27 ft (assist by G. Payton),40,45
+2,4:52.0,Boston full timeout,,40,45
+2,4:28.0,J. Tatum makes 3-pt jump shot from 28 ft (assist by J. Brown),,43,45
+2,4:07.0,,A. Wiggins misses 2-pt jump shot from 15 ft,43,45
+2,4:05.0,Defensive rebound by D. White,,43,45
+2,3:55.0,D. White misses 2-pt layup from 5 ft,,43,45
+2,3:54.0,Offensive rebound by Team,,43,45
+2,3:47.0,D. White makes 3-pt jump shot from 27 ft (assist by J. Tatum),,46,45
+2,3:27.0,,S. Curry misses 3-pt jump shot from 30 ft,46,45
+2,3:25.0,Defensive rebound by J. Brown,,46,45
+2,3:16.0,Turnover by J. Brown (bad pass; steal by O. Porter),,46,45
+2,3:02.0,,D. Green makes 2-pt layup from 5 ft,46,47
+2,2:50.0,J. Tatum makes 2-pt jump shot from 13 ft (assist by A. Horford),,48,47
+2,2:37.0,,Shooting foul by A. Horford (drawn by D. Green),48,47
+2,2:37.0,,D. Green misses free throw 1 of 2,48,47
+2,2:37.0,,Offensive rebound by Team,48,47
+2,2:37.0,,K. Thompson enters the game for O. Porter,48,47
+2,2:37.0,,D. Green makes free throw 2 of 2,48,48
+2,2:19.0,J. Tatum misses 3-pt jump shot from 27 ft,,48,48
+2,2:17.0,,Defensive rebound by S. Curry,48,48
+2,2:09.0,,Personal foul by M. Smart (drawn by D. Green),48,48
+2,2:05.0,,A. Wiggins misses 3-pt jump shot from 25 ft,48,48
+2,2:02.0,Defensive rebound by M. Smart,,48,48
+2,1:58.0,Turnover by M. Smart (lost ball; steal by K. Thompson),,48,48
+2,1:54.0,,Turnover by A. Wiggins (out of bounds lost ball),48,48
+2,1:32.0,J. Tatum misses 2-pt layup from 4 ft,,48,48
+2,1:29.0,Offensive rebound by A. Horford,,48,48
+2,1:28.0,D. White misses 3-pt jump shot from 24 ft,,48,48
+2,1:26.0,,Defensive rebound by K. Thompson,48,48
+2,1:11.0,,A. Wiggins makes 2-pt layup from 4 ft (assist by S. Curry),48,50
+2,0:55.0,,Instant Replay,48,50
+2,0:54.0,Shooting foul by D. Green (drawn by J. Brown),,48,50
+2,0:54.0,J. Brown misses free throw 1 of 3,,48,50
+2,0:54.0,Offensive rebound by Team,,48,50
+2,0:54.0,J. Brown makes free throw 2 of 3,,49,50
+2,0:54.0,J. Brown makes free throw 3 of 3,,50,50
+2,0:44.0,,K. Thompson misses 3-pt jump shot from 26 ft,50,50
+2,0:42.0,Defensive rebound by A. Horford,,50,50
+2,0:33.0,J. Tatum misses 2-pt jump shot from 19 ft,,50,50
+2,0:31.0,,Defensive rebound by D. Green,50,50
+2,0:14.0,,S. Curry misses 3-pt jump shot from 25 ft,50,50
+2,0:12.0,,Offensive rebound by A. Wiggins,50,50
+2,0:09.0,,A. Wiggins makes 2-pt layup at rim,50,52
+2,0:06.0,J. Brown misses 2-pt jump shot from 19 ft,,50,52
+2,0:05.0,Offensive rebound by D. White,,50,52
+2,0:01.0,D. White misses 2-pt jump shot from 22 ft,,50,52
+2,0:00.0,Offensive rebound by Team,,50,52
+3,12:00.0,R. Williams enters the game for D. White,,50,52
+3,12:00.0,,K. Looney enters the game for G. Payton,50,52
+3,11:47.0,,Turnover by D. Green (bad pass),50,52
+3,11:32.0,Personal foul by D. Green (drawn by M. Smart),,50,52
+3,11:28.0,J. Brown misses 3-pt jump shot from 26 ft,,50,52
+3,11:25.0,,Defensive rebound by S. Curry,50,52
+3,11:22.0,,K. Thompson misses 2-pt jump shot from 16 ft,50,52
+3,11:20.0,,Offensive rebound by A. Wiggins,50,52
+3,11:17.0,,A. Wiggins misses 2-pt layup from 4 ft,50,52
+3,11:14.0,Defensive rebound by A. Horford,,50,52
+3,11:07.0,J. Brown makes 2-pt layup from 9 ft (assist by M. Smart),,52,52
+3,10:53.0,,S. Curry makes 2-pt layup from 5 ft,52,54
+3,10:39.0,A. Horford misses 2-pt hook shot from 8 ft,,52,54
+3,10:36.0,,Defensive rebound by D. Green,52,54
+3,10:33.0,,Personal foul by M. Smart (drawn by S. Curry),52,54
+3,10:27.0,,K. Thompson misses 2-pt layup from 4 ft,52,54
+3,10:24.0,Defensive rebound by A. Horford,,52,54
+3,10:19.0,J. Brown misses 2-pt jump shot from 6 ft,,52,54
+3,10:17.0,,Defensive rebound by K. Thompson,52,54
+3,10:13.0,,S. Curry misses 3-pt jump shot from 29 ft,52,54
+3,10:12.0,,Offensive rebound by Team,52,54
+3,10:06.0,,Personal foul by R. Williams (drawn by A. Wiggins),52,54
+3,9:58.0,,S. Curry misses 3-pt jump shot from 29 ft,52,54
+3,9:56.0,,Offensive rebound by A. Wiggins,52,54
+3,9:55.0,,A. Wiggins misses 2-pt layup from 6 ft (block by R. Williams),52,54
+3,9:54.0,,Offensive rebound by Team,52,54
+3,9:51.0,,K. Looney makes 2-pt dunk from 4 ft (assist by D. Green),52,56
+3,9:32.0,Turnover by J. Brown (bad pass; steal by D. Green),,52,56
+3,9:23.0,,K. Thompson makes 3-pt jump shot from 26 ft (assist by D. Green),52,59
+3,9:21.0,Boston full timeout,,52,59
+3,9:04.0,Shooting foul by K. Looney (drawn by J. Tatum),,52,59
+3,9:04.0,J. Tatum makes free throw 1 of 2,,53,59
+3,9:04.0,J. Tatum makes free throw 2 of 2,,54,59
+3,8:50.0,Violation by Team (kicked ball),,54,59
+3,8:43.0,,S. Curry makes 3-pt jump shot from 26 ft,54,62
+3,8:23.0,A. Horford misses 2-pt hook shot from 7 ft,,54,62
+3,8:20.0,,Defensive rebound by K. Looney,54,62
+3,8:15.0,,K. Thompson makes 2-pt layup from 4 ft,54,64
+3,7:58.0,M. Smart misses 2-pt layup from 7 ft (block by K. Looney),,54,64
+3,7:57.0,,Defensive rebound by Team,54,64
+3,7:37.0,,Shooting foul by R. Williams (drawn by A. Wiggins),54,64
+3,7:37.0,,A. Wiggins misses free throw 1 of 2,54,64
+3,7:37.0,,Offensive rebound by Team,54,64
+3,7:37.0,G. Williams enters the game for R. Williams,,54,64
+3,7:37.0,,A. Wiggins makes free throw 2 of 2,54,65
+3,7:17.0,A. Horford makes 2-pt layup from 4 ft (assist by J. Brown),,56,65
+3,6:59.0,,Personal foul by J. Brown (drawn by S. Curry),56,65
+3,6:55.0,,Personal foul by M. Smart (drawn by S. Curry),56,65
+3,6:55.0,,S. Curry makes free throw 1 of 2,56,66
+3,6:55.0,,S. Curry makes free throw 2 of 2,56,67
+3,6:47.0,Technical foul by I. Udoka,,56,67
+3,6:47.0,,S. Curry makes technical free throw,56,68
+3,6:39.0,J. Brown misses 3-pt jump shot from 26 ft,,56,68
+3,6:37.0,,Defensive rebound by K. Looney,56,68
+3,6:23.0,,K. Thompson misses 2-pt jump shot from 18 ft,56,68
+3,6:20.0,Defensive rebound by J. Brown,,56,68
+3,6:17.0,J. Brown misses 2-pt jump shot from 8 ft,,56,68
+3,6:14.0,,Defensive rebound by D. Green,56,68
+3,6:10.0,,S. Curry misses 2-pt jump shot from 16 ft,56,68
+3,6:08.0,,Offensive rebound by K. Looney,56,68
+3,6:02.0,,K. Thompson misses 3-pt jump shot from 24 ft,56,68
+3,5:59.0,Defensive rebound by J. Tatum,,56,68
+3,5:53.0,A. Horford misses 2-pt layup from 7 ft,,56,68
+3,5:50.0,,Defensive rebound by K. Looney,56,68
+3,5:46.0,,Golden State full timeout,56,68
+3,5:46.0,D. White enters the game for J. Brown,,56,68
+3,5:46.0,,G. Payton enters the game for K. Looney,56,68
+3,5:46.0,,O. Porter enters the game for K. Thompson,56,68
+3,5:34.0,,Turnover by A. Wiggins (lost ball; steal by M. Smart),56,68
+3,5:29.0,Turnover by M. Smart (bad pass; steal by O. Porter),,56,68
+3,5:13.0,,S. Curry misses 2-pt layup from 5 ft,56,68
+3,5:11.0,Defensive rebound by A. Horford,,56,68
+3,4:58.0,G. Williams makes 3-pt jump shot from 23 ft (assist by M. Smart),,59,68
+3,4:43.0,,D. Green misses 3-pt jump shot from 27 ft,59,68
+3,4:40.0,Defensive rebound by A. Horford,,59,68
+3,4:32.0,J. Tatum makes 3-pt jump shot from 26 ft (assist by M. Smart),,62,68
+3,4:17.0,,O. Porter makes 3-pt jump shot from 24 ft (assist by A. Wiggins),62,71
+3,3:49.0,M. Smart misses 3-pt jump shot from 23 ft,,62,71
+3,3:46.0,Offensive rebound by A. Horford,,62,71
+3,3:39.0,Turnover by A. Horford (bad pass; steal by S. Curry),,62,71
+3,3:35.0,,Shooting foul by M. Smart (drawn by D. Green),62,71
+3,3:35.0,,D. Green makes free throw 1 of 2,62,72
+3,3:35.0,P. Pritchard enters the game for M. Smart,,62,72
+3,3:35.0,,D. Green makes free throw 2 of 2,62,73
+3,3:16.0,J. Tatum misses 3-pt jump shot from 23 ft,,62,73
+3,3:13.0,Offensive rebound by Team,,62,73
+3,3:04.0,Turnover by D. White (traveling),,62,73
+3,2:53.0,,S. Curry makes 3-pt jump shot from 27 ft,62,76
+3,2:35.0,D. White misses 2-pt layup from 6 ft,,62,76
+3,2:33.0,Offensive rebound by P. Pritchard,,62,76
+3,2:33.0,D. Theis enters the game for A. Horford,,62,76
+3,2:23.0,P. Pritchard misses 3-pt jump shot from 26 ft,,62,76
+3,2:21.0,,Defensive rebound by S. Curry,62,76
+3,2:13.0,,S. Curry makes 3-pt jump shot from 30 ft,62,79
+3,1:54.0,Shooting foul by S. Curry (drawn by J. Tatum),,62,79
+3,1:54.0,J. Tatum misses free throw 1 of 2,,62,79
+3,1:54.0,Offensive rebound by Team,,62,79
+3,1:54.0,,K. Looney enters the game for D. Green,62,79
+3,1:54.0,J. Tatum makes free throw 2 of 2,,63,79
+3,1:41.0,,S. Curry misses 3-pt jump shot from 29 ft,63,79
+3,1:37.0,,Offensive rebound by O. Porter,63,79
+3,1:32.0,,Turnover by S. Curry (step out of bounds),63,79
+3,1:19.0,Shooting foul by S. Curry (drawn by J. Tatum),,63,79
+3,1:19.0,J. Tatum misses free throw 1 of 2,,63,79
+3,1:19.0,Offensive rebound by Team,,63,79
+3,1:19.0,,J. Poole enters the game for G. Payton,63,79
+3,1:19.0,J. Tatum makes free throw 2 of 2,,64,79
+3,1:04.0,,K. Looney makes 2-pt layup from 5 ft (assist by J. Poole),64,81
+3,0:38.0,Turnover by Team (shot clock),,64,81
+3,0:29.0,,J. Poole makes 3-pt jump shot from 29 ft,64,84
+3,0:06.0,D. White misses 3-pt jump shot from 27 ft,,64,84
+3,0:05.0,,Defensive rebound by A. Wiggins,64,84
+3,0:01.0,,J. Poole makes 3-pt jump shot from 39 ft,64,87
+3,0:00.0,,Instant Replay (Request: Ruling Stands),64,87
+4,12:00.0,J. Brown enters the game for G. Williams,,64,87
+4,12:00.0,A. Horford enters the game for P. Pritchard,,64,87
+4,12:00.0,M. Smart enters the game for D. Theis,,64,87
+4,12:00.0,,D. Green enters the game for S. Curry,64,87
+4,12:00.0,,K. Thompson enters the game for K. Looney,64,87
+4,12:00.0,,G. Payton enters the game for A. Wiggins,64,87
+4,12:00.0,,N. Bjelica enters the game for O. Porter,64,87
+4,11:43.0,Turnover by D. White (bad pass; steal by N. Bjelica),,64,87
+4,11:38.0,,J. Poole misses 3-pt jump shot from 24 ft,64,87
+4,11:35.0,,Offensive rebound by G. Payton,64,87
+4,11:32.0,,G. Payton makes 2-pt layup at rim,64,89
+4,11:21.0,Personal foul by G. Payton (drawn by J. Tatum),,64,89
+4,11:11.0,J. Tatum misses 2-pt layup from 6 ft,,64,89
+4,11:08.0,,Defensive rebound by K. Thompson,64,89
+4,11:01.0,,J. Poole makes 2-pt jump shot from 20 ft (assist by D. Green),64,91
+4,10:48.0,Turnover by A. Horford (lost ball; steal by K. Thompson),,64,91
+4,10:45.0,,N. Bjelica makes 2-pt layup from 3 ft (assist by K. Thompson),64,93
+4,10:45.0,Boston full timeout,,64,93
+4,10:45.0,A. Nesmith enters the game for J. Brown,,64,93
+4,10:45.0,P. Pritchard enters the game for A. Horford,,64,93
+4,10:45.0,D. Theis enters the game for M. Smart,,64,93
+4,10:45.0,G. Williams enters the game for J. Tatum,,64,93
+4,10:29.0,P. Pritchard misses 2-pt jump shot from 23 ft,,64,93
+4,10:26.0,Offensive rebound by P. Pritchard,,64,93
+4,10:24.0,A. Nesmith misses 3-pt jump shot from 26 ft,,64,93
+4,10:21.0,,Defensive rebound by N. Bjelica,64,93
+4,10:07.0,,Turnover by K. Thompson (bad pass),64,93
+4,10:07.0,,Loose ball foul by K. Thompson (drawn by D. White),64,93
+4,9:50.0,A. Nesmith makes 2-pt layup from 4 ft (assist by P. Pritchard),,66,93
+4,9:36.0,,Turnover by J. Poole (bad pass),66,93
+4,9:29.0,Turnover by P. Pritchard (lost ball; steal by J. Poole),,66,93
+4,9:25.0,,J. Poole misses 2-pt layup from 4 ft,66,93
+4,9:24.0,,Offensive rebound by Team,66,93
+4,9:24.0,,Golden State full timeout,66,93
+4,9:10.0,,N. Bjelica misses 2-pt layup from 5 ft,66,93
+4,9:07.0,Defensive rebound by A. Nesmith,,66,93
+4,9:01.0,P. Pritchard misses 3-pt jump shot from 25 ft,,66,93
+4,8:58.0,,Defensive rebound by Team,66,93
+4,8:38.0,,K. Thompson makes 2-pt jump shot from 16 ft,66,95
+4,8:20.0,Personal foul by N. Bjelica (drawn by P. Pritchard),,66,95
+4,8:13.0,D. White misses 2-pt jump shot from 13 ft,,66,95
+4,8:10.0,,Defensive rebound by N. Bjelica,66,95
+4,8:00.0,,K. Thompson misses 3-pt jump shot from 27 ft (block by G. Williams),66,95
+4,7:58.0,Defensive rebound by A. Nesmith,,66,95
+4,7:54.0,P. Pritchard makes 2-pt layup from 3 ft (assist by A. Nesmith),,68,95
+4,7:39.0,,K. Thompson misses 3-pt jump shot from 26 ft,68,95
+4,7:38.0,Defensive rebound by P. Pritchard,,68,95
+4,7:31.0,P. Pritchard makes 2-pt jump shot from 9 ft,,70,95
+4,7:04.0,,K. Thompson misses 2-pt jump shot from 8 ft,70,95
+4,7:01.0,Defensive rebound by G. Williams,,70,95
+4,6:55.0,Shooting foul by D. Green (drawn by G. Williams),,70,95
+4,6:55.0,G. Williams misses free throw 1 of 2,,70,95
+4,6:55.0,Offensive rebound by Team,,70,95
+4,6:55.0,G. Williams makes free throw 2 of 2,,71,95
+4,6:46.0,,Personal foul by G. Williams (drawn by D. Green),71,95
+4,6:37.0,,J. Poole misses 3-pt jump shot from 31 ft,71,95
+4,6:35.0,Defensive rebound by D. Theis,,71,95
+4,6:27.0,Shooting foul by N. Bjelica (drawn by D. White),,71,95
+4,6:27.0,D. White makes free throw 1 of 2,,72,95
+4,6:27.0,,K. Looney enters the game for N. Bjelica,72,95
+4,6:27.0,,M. Moody enters the game for D. Green,72,95
+4,6:27.0,D. White makes free throw 2 of 2,,73,95
+4,6:13.0,,Shooting foul by D. White (drawn by K. Thompson),73,95
+4,6:13.0,,K. Thompson makes free throw 1 of 2,73,96
+4,6:13.0,,K. Thompson makes free throw 2 of 2,73,97
+4,5:59.0,D. Theis misses 3-pt jump shot from 26 ft,,73,97
+4,5:56.0,,Defensive rebound by K. Looney,73,97
+4,5:42.0,,Turnover by J. Poole (bad pass; steal by P. Pritchard),73,97
+4,5:38.0,D. White makes 2-pt layup from 3 ft (assist by P. Pritchard),,75,97
+4,5:38.0,,Golden State full timeout,75,97
+4,5:38.0,S. Hauser enters the game for D. White,,75,97
+4,5:22.0,,J. Poole makes 3-pt jump shot from 27 ft (assist by K. Looney),75,100
+4,5:06.0,S. Hauser makes 3-pt jump shot from 23 ft (assist by G. Williams),,78,100
+4,4:40.0,,K. Thompson misses 2-pt jump shot from 11 ft,78,100
+4,4:38.0,Defensive rebound by D. Theis,,78,100
+4,4:20.0,S. Hauser misses 3-pt jump shot from 25 ft,,78,100
+4,4:17.0,,Defensive rebound by G. Payton,78,100
+4,4:01.0,,K. Looney makes 2-pt dunk from 3 ft (assist by G. Payton),78,102
+4,3:42.0,P. Pritchard misses 3-pt jump shot from 26 ft,,78,102
+4,3:39.0,,Defensive rebound by G. Payton,78,102
+4,3:35.0,,Golden State full timeout,78,102
+4,3:35.0,M. Fitts enters the game for P. Pritchard,,78,102
+4,3:35.0,L. Kornet enters the game for D. Theis,,78,102
+4,3:35.0,N. Stauskas enters the game for G. Williams,,78,102
+4,3:35.0,,J. Kuminga enters the game for K. Looney,78,102
+4,3:35.0,,D. Lee enters the game for G. Payton,78,102
+4,3:35.0,,J. Toscano-Anderson enters the game for K. Thompson,78,102
+4,3:18.0,,J. Toscano-Anderson misses 3-pt jump shot from 24 ft,78,102
+4,3:15.0,Defensive rebound by N. Stauskas,,78,102
+4,3:01.0,A. Nesmith makes 2-pt layup from 6 ft (assist by L. Kornet),,80,102
+4,2:44.0,,M. Moody makes 2-pt dunk from 3 ft (assist by J. Toscano-Anderson),80,104
+4,2:34.0,L. Kornet makes 2-pt dunk from 5 ft (assist by A. Nesmith),,82,104
+4,2:11.0,,J. Poole makes 3-pt jump shot from 30 ft (assist by J. Toscano-Anderson),82,107
+4,1:54.0,A. Nesmith misses 3-pt jump shot from 26 ft,,82,107
+4,1:52.0,,Defensive rebound by J. Toscano-Anderson,82,107
+4,1:38.0,,Turnover by J. Toscano-Anderson (bad pass; steal by A. Nesmith),82,107
+4,1:20.0,N. Stauskas makes 3-pt jump shot from 23 ft (assist by S. Hauser),,85,107
+4,0:57.0,,J. Poole misses 3-pt jump shot from 31 ft,85,107
+4,0:54.0,Defensive rebound by N. Stauskas,,85,107
+4,0:43.0,N. Stauskas misses 3-pt jump shot from 28 ft,,85,107
+4,0:40.0,,Defensive rebound by J. Toscano-Anderson,85,107
+4,0:28.0,,D. Lee misses 3-pt jump shot from 27 ft,85,107
+4,0:25.0,Defensive rebound by N. Stauskas,,85,107
+4,0:18.0,M. Fitts makes 3-pt jump shot from 26 ft (assist by N. Stauskas),,88,107
